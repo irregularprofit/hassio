@@ -1,0 +1,2 @@
+2018-10-13 06:26:22 WARNING (SyncWorker_7) [netdisco.ssdp] Error fetching description at http://192.168.1.254:45514/agent.xml
+2018-10-13 06:26:26 ERROR (MainThread) [homeassistant.core] Timer got out of sync. Resetting

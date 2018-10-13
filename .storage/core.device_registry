@@ -1,0 +1,62 @@
+{
+    "data": {
+        "devices": [
+            {
+                "config_entries": [
+                    "6dfa06c3a58b4a32a8990bbc6ccb0b7b"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "ecd9381f96224474a38ebc5373e267b0",
+                "identifiers": [
+                    [
+                        "cast",
+                        "5711d428f9080e7887eba2d57b8496bf"
+                    ]
+                ],
+                "manufacturer": "Google Inc.",
+                "model": "Chromecast Ultra",
+                "name": "TV",
+                "sw_version": null
+            },
+            {
+                "config_entries": [
+                    "6dfa06c3a58b4a32a8990bbc6ccb0b7b"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "556dc1c2c3d44d069eb201d0fbaa464c",
+                "identifiers": [
+                    [
+                        "cast",
+                        "ea00a86b7d398b9f22d970d3d23c4ffe"
+                    ]
+                ],
+                "manufacturer": "Google Inc.",
+                "model": "Google Home Mini",
+                "name": "Bedroom speaker",
+                "sw_version": null
+            },
+            {
+                "config_entries": [
+                    "6dfa06c3a58b4a32a8990bbc6ccb0b7b"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "8065f4ce0ddf41fcb33e39b34e75182b",
+                "identifiers": [
+                    [
+                        "cast",
+                        "0094acfd15fe058062b9d9e70be7c388"
+                    ]
+                ],
+                "manufacturer": "Google Inc.",
+                "model": "Google Home Mini",
+                "name": "Family Room speaker",
+                "sw_version": null
+            }
+        ]
+    },
+    "key": "core.device_registry",
+    "version": 1
+}

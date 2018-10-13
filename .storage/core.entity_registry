@@ -1,0 +1,35 @@
+{
+    "data": {
+        "entities": [
+            {
+                "config_entry_id": "6dfa06c3a58b4a32a8990bbc6ccb0b7b",
+                "device_id": "ecd9381f96224474a38ebc5373e267b0",
+                "disabled_by": null,
+                "entity_id": "media_player.tv",
+                "name": null,
+                "platform": "cast",
+                "unique_id": "5711d428-f908-0e78-87eb-a2d57b8496bf"
+            },
+            {
+                "config_entry_id": "6dfa06c3a58b4a32a8990bbc6ccb0b7b",
+                "device_id": "556dc1c2c3d44d069eb201d0fbaa464c",
+                "disabled_by": null,
+                "entity_id": "media_player.bedroom_speaker",
+                "name": null,
+                "platform": "cast",
+                "unique_id": "ea00a86b-7d39-8b9f-22d9-70d3d23c4ffe"
+            },
+            {
+                "config_entry_id": "6dfa06c3a58b4a32a8990bbc6ccb0b7b",
+                "device_id": "8065f4ce0ddf41fcb33e39b34e75182b",
+                "disabled_by": null,
+                "entity_id": "media_player.family_room_speaker",
+                "name": null,
+                "platform": "cast",
+                "unique_id": "0094acfd-15fe-0580-62b9-d9e70be7c388"
+            }
+        ]
+    },
+    "key": "core.entity_registry",
+    "version": 1
+}

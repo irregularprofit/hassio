@@ -1,0 +1,13 @@
+{
+    "data": {
+        "salt": "eb7d0fe78f02de72cd04fded4be5e4ebf97baa4aee11994313202522551da9f0",
+        "users": [
+            {
+                "password": "JDJiJDEyJDZqT0J2Ukd4YlZXNnFaTVFTb3VIaWVRZnlIdzNpT3FDNGpkNnguUEVISVI5dXlEM2JqRzFT",
+                "username": "irregularprofit"
+            }
+        ]
+    },
+    "key": "auth_provider.homeassistant",
+    "version": 1
+}
