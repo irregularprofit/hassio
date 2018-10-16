@@ -27,6 +27,15 @@
                 "name": null,
                 "platform": "cast",
                 "unique_id": "0094acfd-15fe-0580-62b9-d9e70be7c388"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "switch.lamp",
+                "name": null,
+                "platform": "vesync",
+                "unique_id": "7c61d053-f326-4837-a195-2f73b86de829"
             }
         ]
     },

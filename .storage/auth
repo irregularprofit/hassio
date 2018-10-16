@@ -20,7 +20,7 @@
                 "created_at": "2018-10-13T06:19:04.962584+00:00",
                 "id": "aaf585a2e5bb4a3fbabb120525d165c1",
                 "jwt_key": "859ec6e1df913455115bb887c837e489dcd9e5339887ae4b0714dbb67483b2fadbe2f998f9efd6a35e91ea7219ec136248bd165cd2151ebbdfd187f9f99cfb72",
-                "last_used_at": "2018-10-13T06:22:16.869699+00:00",
+                "last_used_at": "2018-10-16T17:24:38.680684+00:00",
                 "last_used_ip": "172.30.32.2",
                 "token": "7711ee7da440d195085e2f95fdd033344f1a1fe373a147a6ae96cdef274416921402c080ac7054d9ba0fd9fc0508662d3a2b0470a526f296172016afd7161e25",
                 "token_type": "system",
@@ -34,9 +34,23 @@
                 "created_at": "2018-10-13T06:21:26.889266+00:00",
                 "id": "7a9821e39fbf40e7bda689df334fa34b",
                 "jwt_key": "55f6e8c87a274e9312dd0b6a51a110c63ee015594de14cafee3688c092f943ae7ec086e68bfc0ff54b796925f8c16219a69b034614979fe67a690b6010ffd502",
-                "last_used_at": "2018-10-13T06:21:26.889524+00:00",
+                "last_used_at": "2018-10-13T06:56:05.183500+00:00",
                 "last_used_ip": "192.168.1.74",
                 "token": "9e732859a587c864e3c4722506b73d228f22d64ed004a7482061b9f21d4d4bb741703be7173fcddf158b954a970a42f4b8c7c413c729dc24ab676b12dbeb81ff",
+                "token_type": "normal",
+                "user_id": "91451c365a184b18919a2a392021962d"
+            },
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "http://hassio.local:8123/",
+                "client_name": null,
+                "created_at": "2018-10-16T17:24:00.492498+00:00",
+                "id": "dd12bd6ed3724ec587abe74376dad6c5",
+                "jwt_key": "6d2aeaa02718923e58ebc70ba18f763be4ff8851613ffcc00f27611b88106ac7fffc245341d95038c1d0a8978a5bcd5f3a78a4f9b5fd10303727c67a3027f89a",
+                "last_used_at": "2018-10-16T17:24:00.493205+00:00",
+                "last_used_ip": "192.168.1.77",
+                "token": "235d2491542c0418fae2f6de237a973a2fdf7e10f6315458cbbc1d46438e4fb7cd3c14a923b2734dc8835c560cda91a016e95596429d5b0d4a46a71a0b02cc41",
                 "token_type": "normal",
                 "user_id": "91451c365a184b18919a2a392021962d"
             }
